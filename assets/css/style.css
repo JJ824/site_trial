@@ -253,7 +253,7 @@ a:hover {
   text-decoration: underline; }
 
 a {
-  color: #1d70b8; }
+  color: #347B98; }
 
 a:hover {
   color: #003078; }
@@ -482,7 +482,7 @@ body.contrast-high .internet-explorer-message {
   .internet-explorer-message {
     display: block; } }
 footer {
-  color: #0b0c0c;
+  color: #000000;
   background-color: #F5F5F5; }
   footer #footerLinks > ul {
     padding-left: 0; }
@@ -490,7 +490,7 @@ footer {
       display: inline-block;
       margin: 3px 18px 3px 0; }
   footer a {
-    color: #0b0c0c; }
+    color: #000000; }
     footer a:hover {
       color: #003078; }
 
@@ -2057,7 +2057,7 @@ body.contrast-high.layout-config-builder .config-repository-button span {
     #main-content #map .leaflet-bar-timecontrol.leaflet-control-attribution {
       background: #F5F5F5; }
       #main-content #map .leaflet-bar-timecontrol.leaflet-control-attribution a {
-        color: #1d70b8; }
+        color: #347B98; }
   #main-content #map .leaflet-control-fullscreen-button {
     background-image: none;
     font-size: 20px; }
@@ -2295,7 +2295,7 @@ body.contrast-high #main-content #map .disaggregation-controls {
   text-decoration: underline; }
 
 .klaro .cookie-notice .cn-body .cm-link {
-  color: #1d70b8;
+  color: #347B98;
   text-decoration: underline; }
 .klaro .cookie-notice .cn-body strong {
   text-transform: lowercase; }
