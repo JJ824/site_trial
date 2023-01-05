@@ -110,15 +110,15 @@ button:focus {
 
 .btn-download {
   border: none !important;
-  background: #00703c !important;
+  background: #005ea2 !important;
   color: white !important;
   box-shadow: 0 2px 0 #002d18;
   border-radius: 0;
   position: relative; }
   .btn-download:active {
-    background: #005a30 !important; }
+    background: #162e51 !important; }
   .btn-download:hover {
-    background: #005a30 !important; }
+    background: #162e51 !important; }
   .btn-download:visited {
     color: white !important; }
   .btn-download:focus {
@@ -537,15 +537,15 @@ body.contrast-high #disclaimer .disclaimer-alert {
       outline: 2px solid #0b0c0c !important; }
   #search button {
     color: white;
-    background-color: #00703c;
-    border: 1.25px solid #00703c;
+    background-color: #005ea2;
+    border: 1.25px solid #005ea2;
     border-radius: 0; }
     #search button:focus {
       background-color: white !important;
       box-shadow: 0 0 0 5px #ffdd00 !important;
       outline: 2px solid #0b0c0c !important;
       color: white !important;
-      background-color: #00703c !important;
+      background-color: #005ea2 !important;
       z-index: 1; }
 
 body.contrast-high #search button {
@@ -2304,12 +2304,12 @@ body.contrast-high #main-content #map .disaggregation-controls {
   font-weight: bold; }
 .klaro .cookie-notice .cn-body .cm-btn {
   border: none;
-  background: #00703c;
+  background: #005ea2;
   color: white;
   box-shadow: 0 2px 0 #002d18;
   border-radius: 0; }
   .klaro .cookie-notice .cn-body .cm-btn.cm-btn-success {
-    background: #00703c; }
+    background: #005ea2; }
   .klaro .cookie-notice .cn-body .cm-btn.cn-decline {
     background: #f0ad4e;
     color: #0b0c0c; }
@@ -2535,8 +2535,8 @@ body.contrast-high.layout-data-editor .ag-root-wrapper, body.contrast-high.layou
     color: white;
     font-size: 1.4em;
     line-height: 1em;
-    background-color: #00703c;
-    border: 1.25px solid #00703c;
+    background-color: #005ea2;
+    border: 1.25px solid #005ea2;
     border-radius: 0;
     display: inline-block;
     vertical-align: middle;
@@ -2544,7 +2544,7 @@ body.contrast-high.layout-data-editor .ag-root-wrapper, body.contrast-high.layou
     z-index: 0; }
     #search-bar-on-page button:focus {
       color: white !important;
-      background-color: #00703c !important;
+      background-color: #005ea2 !important;
       box-shadow: none !important;
       outline: 3px solid #ffdd00 !important;
       z-index: 1; }
