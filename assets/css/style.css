@@ -150,7 +150,7 @@ body.contrast-high .btn-download {
 
 .tab-pane:focus,
 .variable-selector button.accessBtn:focus {
-  background-color: white !important;
+  background-color: #F5F5F5 !important;
   box-shadow: 0 0 0 5px #ffdd00 !important;
   outline: 2px solid #0b0c0c !important; }
 
@@ -192,7 +192,7 @@ input[type="text"]:focus,
 input[type="search"]:focus,
 body.contrast-high input[type="text"]:focus,
 body.contrast-high input[type="search"]:focus {
-  background-color: white !important;
+  background-color: #F5F5F5 !important;
   box-shadow: 0 0 0 5px #ffdd00 !important;
   outline: 2px solid #0b0c0c !important; }
 
@@ -223,7 +223,7 @@ body.contrast-high [tabindex]:focus {
   box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c !important; }
 
 div[tabindex]:focus {
-  background-color: white !important;
+  background-color: #F5F5F5 !important;
   box-shadow: 0 0 0 5px #ffdd00 !important;
   outline: 2px solid #0b0c0c !important; }
 
@@ -242,7 +242,7 @@ body.contrast-high div[tabindex]:focus {
   left: 50%;
   margin-left: -125px;
   padding: 10px;
-  background: white;
+  background: #F5F5F5;
   text-align: center;
   border: 1px solid #0b0c0c;
   color: #0b0c0c;
@@ -443,7 +443,7 @@ p {
   margin-bottom: 20px; }
 
 body {
-  background: white url("../img/sdgbg.png") top left repeat-x;
+  background: #F5F5F5 url("../img/sdgbg.png") top left repeat-x;
   padding-top: 15px; }
 
 header .navbar .navbar-nav .nav-item:first-child .nav-link {
@@ -466,7 +466,7 @@ body.contrast-high .navbar-brand:focus {
   .internet-explorer-message .internet-explorer-message-body {
     padding: 20px;
     color: #0b0c0c;
-    background-color: white;
+    background-color: #F5F5F5;
     margin: 0; }
 
 body.contrast-high .internet-explorer-message {
@@ -483,7 +483,7 @@ body.contrast-high .internet-explorer-message {
     display: block; } }
 footer {
   color: #0b0c0c;
-  background-color: white; }
+  background-color: #F5F5F5; }
   footer #footerLinks > ul {
     padding-left: 0; }
     footer #footerLinks > ul > li {
@@ -532,7 +532,7 @@ body.contrast-high #disclaimer .disclaimer-alert {
     width: 33ch;
     border: 1.25px solid #0b0c0c; }
     #search input:focus {
-      background-color: white !important;
+      background-color: #F5F5F5 !important;
       box-shadow: 0 0 0 5px #ffdd00 !important;
       outline: 2px solid #0b0c0c !important; }
   #search button {
@@ -541,7 +541,7 @@ body.contrast-high #disclaimer .disclaimer-alert {
     border: 1.25px solid #009999;
     border-radius: 0; }
     #search button:focus {
-      background-color: white !important;
+      background-color: #F5F5F5 !important;
       box-shadow: 0 0 0 5px #ffdd00 !important;
       outline: 2px solid #0b0c0c !important;
       color: white !important;
@@ -1141,7 +1141,7 @@ body.contrast-high .card {
     border-color: white !important; }
 
 .breadcrumb {
-  background-color: white;
+  background-color: #F5F5F5;
   padding: 0;
   margin-top: 10px; }
   .breadcrumb a, .breadcrumb > .active,
@@ -1171,7 +1171,7 @@ body.contrast-high .breadcrumb {
 
 #toolbar button {
   width: 100%;
-  background-color: white;
+  background-color: #F5F5F5;
   position: relative;
   border: 1px solid #ccc;
   text-align: left;
@@ -1206,7 +1206,7 @@ body.contrast-high .breadcrumb {
   font-size: 0.75em;
   margin-top: 10px; }
   #fields label {
-    background-color: white;
+    background-color: #F5F5F5;
     padding: 7px;
     display: block;
     font-weight: normal;
@@ -1254,7 +1254,7 @@ body.contrast-high .breadcrumb {
       padding-left: 7px;
       color: #666; }
     #fields .variable-selector .variable-options {
-      background-color: white;
+      background-color: #F5F5F5;
       display: none;
       position: static;
       z-index: 100;
@@ -1267,7 +1267,7 @@ body.contrast-high .breadcrumb {
         padding: 4px; }
       #fields .variable-selector .variable-options button {
         width: auto;
-        background-color: white;
+        background-color: #F5F5F5;
         border: 1px solid #555;
         color: #0b0c0c;
         float: none;
@@ -1304,7 +1304,7 @@ body.contrast-high .breadcrumb {
           display: none;
           cursor: default; }
           #fields .variable-selector .variable-options label[data-has-data="false"]:hover {
-            background: white; }
+            background: #F5F5F5; }
           #fields .variable-selector .variable-options label[data-has-data="false"] input {
             display: none; }
       #fields .variable-selector .variable-options input[type="checkbox"] {
@@ -1321,7 +1321,7 @@ body.contrast-high .breadcrumb {
       #fields .variable-selector[data-has-data="false"] .variable-options label, #fields .variable-selector.disallowed .variable-options label {
         cursor: default; }
         #fields .variable-selector[data-has-data="false"] .variable-options label:hover, #fields .variable-selector.disallowed .variable-options label:hover {
-          background: white; }
+          background: #F5F5F5; }
     #fields .variable-selector[data-has-data="false"]:not(.disallowed) .no-data-hint {
       display: block; }
     #fields .variable-selector.disallowed .variable-hint {
@@ -1543,7 +1543,7 @@ body.contrast-high .previous-next-links .btn-primary span {
       text-decoration: underline;
       color: #0b0c0c; }
     #main-content .nav-tabs .nav-item.active {
-      background-color: white;
+      background-color: #F5F5F5;
       border: 1px solid #888;
       border-bottom: 0;
       margin-bottom: -1px; }
@@ -1657,7 +1657,7 @@ body.contrast-high #main-content .nav-tabs {
   -o-user-select: none; }
   .layout-indicator.contrast-high canvas:focus,
   .layout-indicator canvas:focus {
-    background-color: white !important;
+    background-color: #F5F5F5 !important;
     box-shadow: 0 0 0 5px #ffdd00 !important;
     outline: 2px solid #0b0c0c !important;
     background-color: transparent !important; }
@@ -2012,7 +2012,7 @@ body.contrast-high.layout-config-builder .config-repository-button span {
     position: relative;
     height: 100%;
     width: 100%;
-    background: white;
+    background: #F5F5F5;
     z-index: 99999;
     display: flex;
     align-items: center;
@@ -2055,7 +2055,7 @@ body.contrast-high.layout-config-builder .config-repository-button span {
       opacity: 0.4;
       cursor: default; }
     #main-content #map .leaflet-bar-timecontrol.leaflet-control-attribution {
-      background: white; }
+      background: #F5F5F5; }
       #main-content #map .leaflet-bar-timecontrol.leaflet-control-attribution a {
         color: #1d70b8; }
   #main-content #map .leaflet-control-fullscreen-button {
@@ -2068,7 +2068,7 @@ body.contrast-high.layout-config-builder .config-repository-button span {
       #main-content #map .disaggregation-controls {
         max-width: 250px; } }
     #main-content #map .disaggregation-controls .disaggregation-list {
-      background: white;
+      background: #F5F5F5;
       padding: 5px;
       border: 2px solid rgba(0, 0, 0, 0.3);
       border-radius: 5px;
@@ -2091,7 +2091,7 @@ body.contrast-high.layout-config-builder .config-repository-button span {
           order: 3;
           text-align: right; }
     #main-content #map .disaggregation-controls .disaggregation-button {
-      background: white;
+      background: #F5F5F5;
       padding: 5px;
       border: 2px solid rgba(0, 0, 0, 0.3);
       border-radius: 5px;
@@ -2106,7 +2106,7 @@ body.contrast-high.layout-config-builder .config-repository-button span {
       margin-top: -200px;
       width: 250px;
       margin-left: -125px;
-      background-color: white;
+      background-color: #F5F5F5;
       padding: 20px;
       border: 2px solid rgba(0, 0, 0, 0.3);
       border-radius: 5px; }
@@ -2202,17 +2202,17 @@ body.contrast-high.layout-config-builder .config-repository-button span {
           z-index: 1; }
           #main-content #map .selection-legend .legend-footer .legend-values .arrow.left {
             border-width: 20px 0 0 20px;
-            border-color: transparent transparent transparent white;
+            border-color: transparent transparent transparent #F5F5F5;
             left: 0; }
           #main-content #map .selection-legend .legend-footer .legend-values .arrow.right {
             border-width: 0 0 20px 20px;
-            border-color: transparent transparent white transparent;
+            border-color: transparent transparent #F5F5F5 transparent;
             right: 1px;
             box-shadow: 1px 1px 1px 0px #666; }
         #main-content #map .selection-legend .legend-footer .legend-values .legend-value {
           color: #0b0c0c;
           padding: 0 4px;
-          background: white;
+          background: #F5F5F5;
           position: absolute;
           z-index: 2;
           box-shadow: 1px 1px 1px 0px #666; }
