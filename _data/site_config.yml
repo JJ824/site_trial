@@ -95,7 +95,7 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: Regulating for people, the environment and growth
+  title: 'Regulating for people, the environment and growth'
   description: Select each icon for more information
 frontpage_introduction_banner:
   title: frontpage.intro_title
