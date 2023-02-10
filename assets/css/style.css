@@ -1081,12 +1081,12 @@ body.contrast-high .goal-banner img {
   padding-top: 30px;
   padding-bottom: 30px; }
   .goal-17.goal-indicators div span:not(.status-inner):not(.indicator-card-number) {
-    border-color: #70881b;
-    color: #70881b; }
+    border-color: #cccccc;
+    color: #cccccc; }
 
 .goal-tiles #goal-17,
 .goal-tiles .goal-icon-17 {
-  background-color: #B2D732; }
+  background-color: white; }
 
 #main-content .goal-tiles .goal-tile a {
   display: block;
